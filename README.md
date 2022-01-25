@@ -29,5 +29,8 @@
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriareynososf&layout=compact" />
+    
+  </p>  
+    <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=valeriareynososf&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
