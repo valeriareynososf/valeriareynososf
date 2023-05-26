@@ -2,7 +2,7 @@
 # 👩🏽‍💻 About Me
 - 🌱 I’m currently learning JavaScript, React.js, Redux.js, Python, CSS, Node.js
 - 💬 Ask me about anything!
-- 📫 How to reach me: valeriareynososf@gmail.com
+- 📫 How to reach me: valeriayearup@gmail.com
 - ⚡ Fun fact: I love assembling IKEA furniture
 
 
